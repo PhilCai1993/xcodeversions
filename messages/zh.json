@@ -1,0 +1,29 @@
+{
+  "title": "Xcode 版本",
+  "tableHeaders": {
+    "xcodeVersion": "Xcode 版本",
+    "status": "状态",
+    "releaseDate": "发布日期",
+    "swiftVersion": "Swift 版本",
+    "clangVersion": "Clang 版本",
+    "macOSSDK": "macOS SDK",
+    "requiresMacOS": "需要 macOS",
+    "links": "链接"
+  },
+  "status": {
+    "beta": "测试版",
+    "rc": "候选版",
+    "release": "正式版",
+    "unknown": "未知",
+    "recommended": "推荐"
+  },
+  "links": {
+    "download": "下载",
+    "notes": "说明"
+  },
+  "languageSwitch": {
+    "en": "English",
+    "zh": "中文"
+  }
+}
+

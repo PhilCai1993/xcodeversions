@@ -1,0 +1,29 @@
+{
+  "title": "Xcode Versions",
+  "tableHeaders": {
+    "xcodeVersion": "Xcode Version",
+    "status": "Status",
+    "releaseDate": "Release Date",
+    "swiftVersion": "Swift Version",
+    "clangVersion": "Clang Version",
+    "macOSSDK": "macOS SDK",
+    "requiresMacOS": "Requires macOS",
+    "links": "Links"
+  },
+  "status": {
+    "beta": "Beta",
+    "rc": "RC",
+    "release": "Release",
+    "unknown": "Unknown",
+    "recommended": "Recommended"
+  },
+  "links": {
+    "download": "Download",
+    "notes": "Notes"
+  },
+  "languageSwitch": {
+    "en": "English",
+    "zh": "中文"
+  }
+}
+
